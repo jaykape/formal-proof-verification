@@ -1,0 +1,1 @@
+theorem trivial : 1 = 1 := rfl
