@@ -1,0 +1,9 @@
+.build/
+lake-packages/
+
+.lean/
+.olean/
+
+.vscode/
+*.swp
+.DS_Store
